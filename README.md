@@ -2,7 +2,7 @@
 Tiny play implementation of basic common collection functions
 
 # Description
-Implement for use in browser `reduce`, `map`, `filter`.  Include
+Play implementation of `reduce`, `map`, `filter` for use in browser.  Includes
 basic jasmine tests.
 
 # Test
