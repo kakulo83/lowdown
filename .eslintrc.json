@@ -1,0 +1,17 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "sourceType": "script",
+        "ecmaVersion": 2018,
+        "allowImportExportEverywhere": true
+    },
+    "rules": {
+    }
+}
